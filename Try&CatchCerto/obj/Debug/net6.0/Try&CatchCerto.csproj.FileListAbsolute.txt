@@ -1,0 +1,15 @@
+C:\Users\2022102020041\source\repos\Try&CatchCerto\Try&CatchCerto\bin\Debug\net6.0\Try&CatchCerto.exe
+C:\Users\2022102020041\source\repos\Try&CatchCerto\Try&CatchCerto\bin\Debug\net6.0\Try&CatchCerto.deps.json
+C:\Users\2022102020041\source\repos\Try&CatchCerto\Try&CatchCerto\bin\Debug\net6.0\Try&CatchCerto.runtimeconfig.json
+C:\Users\2022102020041\source\repos\Try&CatchCerto\Try&CatchCerto\bin\Debug\net6.0\Try&CatchCerto.dll
+C:\Users\2022102020041\source\repos\Try&CatchCerto\Try&CatchCerto\bin\Debug\net6.0\Try&CatchCerto.pdb
+C:\Users\2022102020041\source\repos\Try&CatchCerto\Try&CatchCerto\obj\Debug\net6.0\Try&CatchCerto.csproj.AssemblyReference.cache
+C:\Users\2022102020041\source\repos\Try&CatchCerto\Try&CatchCerto\obj\Debug\net6.0\Try&CatchCerto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020041\source\repos\Try&CatchCerto\Try&CatchCerto\obj\Debug\net6.0\Try&CatchCerto.AssemblyInfoInputs.cache
+C:\Users\2022102020041\source\repos\Try&CatchCerto\Try&CatchCerto\obj\Debug\net6.0\Try&CatchCerto.AssemblyInfo.cs
+C:\Users\2022102020041\source\repos\Try&CatchCerto\Try&CatchCerto\obj\Debug\net6.0\Try&CatchCerto.csproj.CoreCompileInputs.cache
+C:\Users\2022102020041\source\repos\Try&CatchCerto\Try&CatchCerto\obj\Debug\net6.0\Try&CatchCerto.dll
+C:\Users\2022102020041\source\repos\Try&CatchCerto\Try&CatchCerto\obj\Debug\net6.0\refint\Try&CatchCerto.dll
+C:\Users\2022102020041\source\repos\Try&CatchCerto\Try&CatchCerto\obj\Debug\net6.0\Try&CatchCerto.pdb
+C:\Users\2022102020041\source\repos\Try&CatchCerto\Try&CatchCerto\obj\Debug\net6.0\Try&CatchCerto.genruntimeconfig.cache
+C:\Users\2022102020041\source\repos\Try&CatchCerto\Try&CatchCerto\obj\Debug\net6.0\ref\Try&CatchCerto.dll
