@@ -10,14 +10,16 @@ try
 
     int r = a / b;
     Console.WriteLine($"O resultado é {r}");
-}catch (DivideByZeroException e)
-{
-    Console.WriteLine($"Não é permitido divisão por zero! {e.Message}");
-}catch (InvalidCastException e)
+}
+catch (DivideByZeroException e)
 {
     Console.WriteLine($"Não é permitido divisão por zero! {e.Message}");
 }
+catch (InvalidCastException e)
+{
+    Console.WriteLine($"Conversão de string para letra não é permitida! {e.Message}");
+}
 catch (Exception e)
 {
-    Console.WriteLine($"Não é permitido divisão por zero! {e.Message}");
+    Console.WriteLine($"Ocorreu um erro! {e.Message}");
 }
