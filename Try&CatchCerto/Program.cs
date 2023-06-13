@@ -23,3 +23,7 @@ catch (Exception e)
 {
     Console.WriteLine($"Ocorreu um erro! {e.Message}");
 }
+//finally
+//{
+//    Console.WriteLine("Aqui passa de qualquer forma!");
+//}
